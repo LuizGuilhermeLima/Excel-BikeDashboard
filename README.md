@@ -23,3 +23,6 @@ The Bike Sales Dashboard serves as a lens, bringing the complex data into a clea
 Spanning across diverse regions—Europe, North America, and the Pacific—the data consistently shows that individuals aged 31-54 are the most prevalent bike purchasers. This age group's engagement with biking is not a mere trend but a statement of lifestyle.
 The dashboard also highlights the commute as a critical factor in bike purchases. Individuals with workplaces within 5 miles from their homes show a marked preference for cycling, perhaps as a commitment to convenience or sustainability.
 Far from being a mere retrospective analysis, the dashboard propels us towards the future. It guides strategic engagement with demographic segments demonstrating the highest potential. This dashboard is more than a collection of charts and figures—it's a guiding businesses to make informed decisions, spotlighting the route from data-rich insights to strategic triumphs.
+
+![Screenshot 2024-02-23 at 3 03 03 PM](https://github.com/LuizGuilhermeLima/Excel-BikeDashboard/assets/105224925/71d2a28b-dca5-4ff7-af50-024a4d67a972)
+
