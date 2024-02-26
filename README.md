@@ -1,16 +1,21 @@
 # Transforming Data into Decisions: The Bike Sales Dashboard
 
 ## Harnessing the Hidden Stories in Data
-In the realm of data analytics, raw data represents untapped potential—akin to unpolished diamonds. It’s true value is realized through the meticulous process of refining and interpreting. The journey from a spreadsheet filled with raw figures to a compelling, interactive dashboard is a fusion of art and statistical science. I'm excited to present a transformation that epitomizes this process: The Bike Sales Dashboard, crafted using Excel, a testament to the power of data visualization.
+In the realm of data analytics, raw data represents untapped potential. It’s true value is realized through the meticulous process of refining and interpreting. The journey from a spreadsheet filled with raw figures to a compelling, interactive dashboard is a fusion of art and statistical science. I'm excited to present a transformation that epitomizes this process: The Bike Sales Dashboard, crafted using Excel, a testament to the power of data visualization.
 From Spreadsheets to Insights
 
-Initially, the raw data presented itself as a simple matrix of customer demographics and behaviors, including marital status, gender, income, and more. Each data point provides a glimpse into the lives and preferences of potential bike purchasers. My goal was to transform these individual data points into a narrative that could inform and drive strategic business decisions.
+Initially, the raw data presented itself as a simple matrix of customer demographics and behaviors, including marital status, gender, income, and more (as seen below). Each data point provides a glimpse into the lives and preferences of potential bike purchasers. My goal was to transform these individual data points into a narrative that could inform and drive strategic business decisions.
+![Screenshot 2024-02-26 at 2 42 06 PM](https://github.com/LuizGuilhermeLima/Excel-BikeDashboard/assets/105224925/9930b610-ed96-4785-8896-59ec7978f6d1)
+
 
 ## The Approach
 1.	Organizing the Work
 To enhance workflow efficiency, I segmented the data analysis process into specialized workbooks. This not only helped maintain the integrity of the original data but also streamlined the manipulation and analysis stages. I established a "Working Sheet" for data transformation, a "Pivot Table" sheet for deep dives into data relationships, and finally, the "Dashboard" sheet, where the analytical story came to life.
 2.	Data Cleaning and Validation
 Recognizing that insights are only as accurate as the data integrity, I embarked on a thorough data cleaning process. This included identifying and rectifying missing data points, correcting input errors, and removing 26 duplicate entries to preserve data fidelity. To enhance clarity, gender abbreviations were replaced with full terms, and marital status labels were expanded for immediate comprehension. I also introduced age brackets to streamline the analysis, thereby making patterns more discernible.
+With those steps we can see the improvements in the new table formed, with clean data and more complete information:
+![Screenshot 2024-02-26 at 2 42 36 PM](https://github.com/LuizGuilhermeLima/Excel-BikeDashboard/assets/105224925/39b08f76-4072-41e0-bab1-32318077dfc9)
+
 3.	Understanding Relationships with Pivot Tables
 •	Gender and Income: A pivot table analysis unearthed a pivotal insight: male customers had a higher average income compared to female customers. This discovery hints at differing purchasing powers and could inform nuanced marketing strategies.
 •	Age Brackets: The data revealed that the 'Middle Age (31-54)' demographic was the most engaged in bike purchases. This insight opens avenues for targeted marketing campaigns centered around lifestyle and health.
