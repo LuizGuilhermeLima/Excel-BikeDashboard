@@ -1,3 +1,4 @@
+![Screenshot 2024-02-23 at 3 03 03 PM](https://github.com/LuizGuilhermeLima/Excel-BikeDashboard/assets/105224925/71d2a28b-dca5-4ff7-af50-024a4d67a972)
 # Transforming Data into Decisions: The Bike Sales Dashboard
 
 ## Harnessing the Hidden Stories in Data
