@@ -11,7 +11,7 @@ Initially, the raw data presented itself as a simple matrix of customer demograp
 
 ## The Approach
 1.	Organizing the Work
-To enhance workflow efficiency, I segmented the data analysis process into specialized workbooks. This not only helped maintain the integrity of the original data but also streamlined the manipulation and analysis stages. I established a "Working Sheet" for data transformation, a "Pivot Table" sheet for deep dives into data relationships, and finally, the "Dashboard" sheet, where the analytical story came to life.
+To enhance workflow efficiency, I segmented the data analysis process into specialized worksheets. This not only helped maintain the integrity of the original data but also streamlined the manipulation and analysis stages. I established a "Working Sheet" for data transformation, a "Pivot Table" sheet for deep dives into data relationships, and finally, the "Dashboard" sheet, where the analytical story came to life.
 2.	Data Cleaning and Validation
 Recognizing that insights are only as accurate as the data integrity, I embarked on a thorough data cleaning process. This included identifying and rectifying missing data points, correcting input errors, and removing 26 duplicate entries to preserve data fidelity. To enhance clarity, gender abbreviations were replaced with full terms, and marital status labels were expanded for immediate comprehension. I also introduced age brackets to streamline the analysis, thereby making patterns more discernible.
 With those steps we can see the improvements in the new table formed, with clean data and more complete information:
